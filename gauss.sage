@@ -17,3 +17,5 @@ class GaussianRational:
         if not hasattr(self,"_l"): 
             self._l = math.sqrt(self.a**2 + self.b**2)    
         return self._l
+    def crazy(self)
+        return "this is crazzzzzyyyyy for math 480"
